@@ -5,6 +5,11 @@
 // answer[i] == "Buzz" if i is divisible by 5.
 // answer[i] == i (as a string) if none of the above conditions are true.
 
+
+import java.util.List;
+import java.util.ArrayList;
+
+
 class arraylist {
     public List<String> fizzBuzz(int n) {
         List<String> answer = new ArrayList<>();
